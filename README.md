@@ -17,5 +17,11 @@ To run this app, you'll need the following tools and dependencies:
 - Web Vitals (version 2.1.4 or later) - For performance measurement
 
 ## Installation
-
-1. Clone the repository to your local machine:
+git clone https://github.com/your-username/star-wars-app.git
+cd star-wars-app
+npm install  
+##  Usage
+After installing the dependencies, you can start the development server:
+sh
+npm start  or yarn start
+Open your browser and navigate to http://localhost:3000 to see the app in action.
